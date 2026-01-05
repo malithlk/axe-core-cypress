@@ -1,0 +1,24 @@
+# Source files
+src/
+cypress/
+test/
+tsconfig.json
+package-lock.json
+
+# Development files
+*.spec.ts
+*.test.ts
+.vscode/
+.idea/
+
+# Build artifacts
+*.log
+node_modules/
+
+# Git
+.git/
+.gitignore
+
+# CI/CD
+.github/
+.gitlab-ci.yml

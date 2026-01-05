@@ -1,0 +1,10 @@
+node_modules/
+.cache
+dist/
+.vscode
+.eslintcache
+.DS_Store
+.idea/
+results
+artifacts
+*.log
