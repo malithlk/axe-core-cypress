@@ -1,7 +1,7 @@
 {
   "name": "axe-cypress-a11y",
   "version": "1.0.0",
-  "description": "axe-core pluging for cypress",
+  "description": "axe-core plugin for cypress",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "publishConfig": {

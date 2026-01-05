@@ -1,4 +1,4 @@
-# @axe-core/cypress
+# axe-cypress-a11y
 
 ```bash
 Provides a chainable axe API for CypressIO.
@@ -12,7 +12,7 @@ Install [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-
 
 Install Cypress: `npm install cypress `
 
-Install @axe-core/cypress: `npm install @axe-core/cypress`
+Install @axe-core/cypress: `npm install axe-cypress-a11y`
 
 ## Usage
 
@@ -21,7 +21,7 @@ This module uses a chainable API to assist in injecting, configuring, and analyz
 Here is an example of a script that will drive Cypress to a page, perform an analysis, and then log results.
 
 ```typescript
-import AxeBuilder from '@axe-core/cypress';
+import AxeBuilder from 'axe-cypress-a11y';
 
 describe('Accessibility Tests', () => {
   it('should have no accessibility violations', () => {
