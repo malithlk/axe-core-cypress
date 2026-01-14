@@ -12,7 +12,7 @@ Install [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-
 
 Install Cypress: `npm install cypress `
 
-Install @axe-core/cypress: `npm install axe-cypress-a11y`
+Install @axe-core/cypress: `npm install axe-core axe-cypress-a11y`
 
 ## Usage
 
